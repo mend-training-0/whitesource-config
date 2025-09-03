@@ -2,7 +2,8 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "releaseBranches": ["*"]
   },
   "scanSettingsSAST": {
     "enableScan": true,
