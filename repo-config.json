@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "baseBranches": [],
-    "releaseBranches": ["tau-branch-0", "tau-branch-1"]
+    "releaseBranches": ["tau-branch-0", "tau-branch-1", "new-branch-0", "new-branch-1"]
   },
   "scanSettingsSAST": {
     "enableScan": true,
